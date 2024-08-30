@@ -1,4 +1,4 @@
-.bg video {position: fixed; 
+.bg video {position: absolute; 
     right: 0;
    bottom: 0;
     min-width: 100%;
