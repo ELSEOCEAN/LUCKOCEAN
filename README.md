@@ -1,7 +1,6 @@
 ><!DOCTYPE html>
 <html>
 <head>
-         <title> ELSEOCEAN </title>
          <title>ELSEOCEAN</title>
 </head>
 <body>
