@@ -6,7 +6,7 @@
    width: 100vw;
    height: 100vh;
    z-index: -100;
-   background: url(../winter-night-cafe-moewalls-com.mp4)
+   background-image: url(../winter-night-cafe-moewalls-com.mp4)
    no-repeat center;
- background-size: cover; }
+ background-size: 100%; }
  
