@@ -1,11 +1,7 @@
-.row
-
-
-
 .bg video {position: absolute; 
    width: 100vw;
    height: 100vh;
    background-image: url(../winter-night-cafe-moewalls-com.mp4)
    no-repeat center;
- background-size: 10%;}
+ background-size: 100%;}
  
