@@ -1,9 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Ceviche+One&display=swap");
-body{
+.body{
     margin: 0;
     padding: 0;
     height: 100px;
-    font-family: "Ceviche One", system-ui;      
+    font-family: "Ceviche One", system-ui; 
 }
 .banner{
     width: 100%;
