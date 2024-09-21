@@ -1,7 +1,8 @@
-.bg video {position: absolute; 
-   width: 100vw;
-   height: 100vh;
-   background-image: url(../winter-night-cafe-moewalls-com.mp4)
-   no-repeat center;
- background-size: 100%;}
- 
+@import url('https://fonts.googleapis.com/css2?family=Ceviche+One&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Ceviche One", system-ui;
+    height: 100px;
+}
