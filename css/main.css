@@ -1,10 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Ceviche+One&display=swap');
-
+@import url("https://fonts.googleapis.com/css2?family=Ceviche+One&display=swap");
 body{
     margin: 0;
     padding: 0;
     height: 100px;
-   font-family: "Ceviche One", system-ui;  
-   font-weight: 400;
-   font-style: normal;
-   }
+    font-family: "Ceviche One", system-ui;      
+}
