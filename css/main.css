@@ -4,10 +4,7 @@ body{
     margin: 0;
     padding: 0;
     height: 100px;
-    .ceviche-one-regular {
-        font-family: "Ceviche One", system-ui;
-        font-weight: 400;
-        font-style: normal;
-      }
-      
-}
+   font-family: "Ceviche One", system-ui;  
+   font-weight: 400;
+   font-style: normal;
+   }
