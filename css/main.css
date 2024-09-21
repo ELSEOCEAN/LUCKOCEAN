@@ -3,6 +3,11 @@
 body{
     margin: 0;
     padding: 0;
-    font-family: "Ceviche One", system-ui;
     height: 100px;
+    .ceviche-one-regular {
+        font-family: "Ceviche One", system-ui;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
 }
