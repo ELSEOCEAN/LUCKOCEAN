@@ -1,9 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Ceviche+One&display=swap");
+
 body{
     margin: 0;
     padding: 0;
-    height: 100px;
-    font-family: "Ceviche One", system-ui; 
+    height: 100vh;
+    font-family: "Ceviche One", Arial, sans-serif;
+    background-color: #fff;
 }
 .banner{
     width: 100%;
@@ -12,6 +14,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #fff;
 }
 .banner video {
          position: fixed;
